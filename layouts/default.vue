@@ -4,6 +4,6 @@
     <div class="flex-grow">
       <slot/>
     </div>
-    <div>Footer</div>
+    <Footer/>
   </div>
 </template>
