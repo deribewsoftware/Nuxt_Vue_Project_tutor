@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex flex-col gap-20">
+  <div class="min-h-screen flex flex-col bg-slate-50">
     <HeaderNavbar/>
     <div class="flex-grow">
       <slot/>
