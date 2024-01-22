@@ -1,6 +1,7 @@
 <template>
   <div class="flex justify-between px-4 py-2 shadow-md">
     <div>Bete</div>
+    <CategorySearch/>
     <div class="flex justify-between gap-4 ">
       <div>Location</div>
       
